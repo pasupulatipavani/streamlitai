@@ -11,4 +11,4 @@ snowflake_snowpark_python==0.8.0
 streamlit==1.11.0
 streamlit_option_menu==0.3.2
 streamlit-aggrid
-pyarrow<10.1.0,>=10.0.1
+pyarrow<8.1.0,>=8.0.0
