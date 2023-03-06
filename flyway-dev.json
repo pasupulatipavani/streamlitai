@@ -1,0 +1,14 @@
+{
+  "version": "2.0",
+  "name": "P1",
+  "id": "89ed2b6c-47b5-46d5-8013-0c9760fb6133",
+  "databaseType": "Snowflake",
+  "development": {
+    "scriptsFolder": "./schema-model"
+  },
+  "deployment": {
+    "flywayConfFiles": [
+      "./flyway.conf"
+    ]
+  }
+}
